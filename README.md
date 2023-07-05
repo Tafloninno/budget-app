@@ -22,6 +22,8 @@
 
 - [Live Demo](https://buddy-4izw.onrender.com)
 
+- [Presentation video](https://www.loom.com/share/2ed6d21688d54f91b1878f3e13a539b3)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
