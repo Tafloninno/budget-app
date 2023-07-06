@@ -22,7 +22,7 @@
 
 - [Live Demo](https://buddy-4izw.onrender.com)
 
-- [Presentation video](https://www.loom.com/share/2ed6d21688d54f91b1878f3e13a539b3)
+- [Presentation video](https://www.loom.com/share/57161cf3b7ed4fb08582803c047dccd4)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
